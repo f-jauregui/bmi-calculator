@@ -1,1 +1,3 @@
-# BMI Calculator 💪
+# BMI Calculator
+
+## Made with Flutter 💪
